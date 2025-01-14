@@ -1,0 +1,11 @@
+prefix=M:/heart_disease_project/env/Library
+exec_prefix=M:/heart_disease_project/env/Library
+libdir=M:/heart_disease_project/env/Library/lib
+includedir=M:/heart_disease_project/env/Library/include
+
+Name: libtiff
+Description:  Tag Image File Format (TIFF) library.
+Version: 4.2.0
+Libs: -LM:/heart_disease_project/env/Library/lib -ltiff
+Libs.private: 
+Cflags: -IM:/heart_disease_project/env/Library/include

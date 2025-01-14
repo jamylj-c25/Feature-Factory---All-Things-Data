@@ -1,0 +1,13 @@
+prefix=M:/bulldozer_price_prediction/env/Library
+exec_prefix=M:/bulldozer_price_prediction/env/Library
+libdir=M:/bulldozer_price_prediction/env/Library/lib
+sharedlibdir=M:/bulldozer_price_prediction/env/Library/lib
+includedir=M:/bulldozer_price_prediction/env/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.11
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
