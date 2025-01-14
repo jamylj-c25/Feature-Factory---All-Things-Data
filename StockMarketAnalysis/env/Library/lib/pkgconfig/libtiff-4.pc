@@ -1,0 +1,11 @@
+prefix=M:/StockMarketAnalysis/env/Library
+exec_prefix=M:/StockMarketAnalysis/env/Library
+libdir=M:/StockMarketAnalysis/env/Library/lib
+includedir=M:/StockMarketAnalysis/env/Library/include
+
+Name: libtiff
+Description:  Tag Image File Format (TIFF) library.
+Version: 4.2.0
+Libs: -LM:/StockMarketAnalysis/env/Library/lib -ltiff
+Libs.private: 
+Cflags: -IM:/StockMarketAnalysis/env/Library/include

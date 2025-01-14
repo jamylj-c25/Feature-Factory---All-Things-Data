@@ -1,0 +1,265 @@
+{
+  "build": "py38haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [
+    "cryptography >=3.3.1,<4.0.0"
+  ],
+  "depends": [
+    "python >=3.8,<3.9.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\J\\anaconda3\\pkgs\\pyjwt-2.1.0-py38haa95532_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/PyJWT-2.1.0.dist-info/AUTHORS.rst",
+    "Lib/site-packages/PyJWT-2.1.0.dist-info/INSTALLER",
+    "Lib/site-packages/PyJWT-2.1.0.dist-info/LICENSE",
+    "Lib/site-packages/PyJWT-2.1.0.dist-info/METADATA",
+    "Lib/site-packages/PyJWT-2.1.0.dist-info/RECORD",
+    "Lib/site-packages/PyJWT-2.1.0.dist-info/REQUESTED",
+    "Lib/site-packages/PyJWT-2.1.0.dist-info/WHEEL",
+    "Lib/site-packages/PyJWT-2.1.0.dist-info/direct_url.json",
+    "Lib/site-packages/PyJWT-2.1.0.dist-info/top_level.txt",
+    "Lib/site-packages/jwt/__init__.py",
+    "Lib/site-packages/jwt/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/jwt/__pycache__/algorithms.cpython-38.pyc",
+    "Lib/site-packages/jwt/__pycache__/api_jwk.cpython-38.pyc",
+    "Lib/site-packages/jwt/__pycache__/api_jws.cpython-38.pyc",
+    "Lib/site-packages/jwt/__pycache__/api_jwt.cpython-38.pyc",
+    "Lib/site-packages/jwt/__pycache__/exceptions.cpython-38.pyc",
+    "Lib/site-packages/jwt/__pycache__/help.cpython-38.pyc",
+    "Lib/site-packages/jwt/__pycache__/jwks_client.cpython-38.pyc",
+    "Lib/site-packages/jwt/__pycache__/utils.cpython-38.pyc",
+    "Lib/site-packages/jwt/algorithms.py",
+    "Lib/site-packages/jwt/api_jwk.py",
+    "Lib/site-packages/jwt/api_jws.py",
+    "Lib/site-packages/jwt/api_jwt.py",
+    "Lib/site-packages/jwt/exceptions.py",
+    "Lib/site-packages/jwt/help.py",
+    "Lib/site-packages/jwt/jwks_client.py",
+    "Lib/site-packages/jwt/py.typed",
+    "Lib/site-packages/jwt/utils.py",
+    ".nonadmin"
+  ],
+  "fn": "pyjwt-2.1.0-py38haa95532_0.conda",
+  "legacy_bz2_md5": "43a0ee650e58693e91d142c513ad294c",
+  "legacy_bz2_size": 32215,
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\J\\anaconda3\\pkgs\\pyjwt-2.1.0-py38haa95532_0",
+    "type": 1
+  },
+  "md5": "1343196dc353de75000010229c74b393",
+  "name": "pyjwt",
+  "package_tarball_full_path": "C:\\Users\\J\\anaconda3\\pkgs\\pyjwt-2.1.0-py38haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/PyJWT-2.1.0.dist-info/AUTHORS.rst",
+        "path_type": "hardlink",
+        "sha256": "925ce43461029eedbf558ec0b7cf7fc4b045def5120ebb97937c70814071cf07",
+        "sha256_in_prefix": "925ce43461029eedbf558ec0b7cf7fc4b045def5120ebb97937c70814071cf07",
+        "size_in_bytes": 322
+      },
+      {
+        "_path": "Lib/site-packages/PyJWT-2.1.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/PyJWT-2.1.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "ec82af815b5f9da8685afb300cc5beb7949e1c22b79b6c1c054796cefdf6cac6",
+        "sha256_in_prefix": "ec82af815b5f9da8685afb300cc5beb7949e1c22b79b6c1c054796cefdf6cac6",
+        "size_in_bytes": 1080
+      },
+      {
+        "_path": "Lib/site-packages/PyJWT-2.1.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "daf453d9a793b6f4efd28ee3e071eb1db51129198129ca8aebb3336e884ccd35",
+        "sha256_in_prefix": "daf453d9a793b6f4efd28ee3e071eb1db51129198129ca8aebb3336e884ccd35",
+        "size_in_bytes": 4038
+      },
+      {
+        "_path": "Lib/site-packages/PyJWT-2.1.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "7f01a8c1f2d6c859851f5deb09a8df343da60a8577823c7366532dcaa9b23897",
+        "sha256_in_prefix": "7f01a8c1f2d6c859851f5deb09a8df343da60a8577823c7366532dcaa9b23897",
+        "size_in_bytes": 1840
+      },
+      {
+        "_path": "Lib/site-packages/PyJWT-2.1.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/PyJWT-2.1.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+        "sha256_in_prefix": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "Lib/site-packages/PyJWT-2.1.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "d26d0fb993e1a59e075de5c8f3c499e81ef0b7d119f1c807b2f041bf8f8b00b2",
+        "sha256_in_prefix": "d26d0fb993e1a59e075de5c8f3c499e81ef0b7d119f1c807b2f041bf8f8b00b2",
+        "size_in_bytes": 65
+      },
+      {
+        "_path": "Lib/site-packages/PyJWT-2.1.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "44fe431cdc896ccab691ad0599f4e0a12690ce1ededebe57b825823bc6b4d24f",
+        "sha256_in_prefix": "44fe431cdc896ccab691ad0599f4e0a12690ce1ededebe57b825823bc6b4d24f",
+        "size_in_bytes": 4
+      },
+      {
+        "_path": "Lib/site-packages/jwt/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "b05aff9c1a6b0b083293c21ead012b413a27e40206dbf811419a7443270402b4",
+        "sha256_in_prefix": "b05aff9c1a6b0b083293c21ead012b413a27e40206dbf811419a7443270402b4",
+        "size_in_bytes": 1554
+      },
+      {
+        "_path": "Lib/site-packages/jwt/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "04b0ef30edce0089833a5e9e1d1e60bf37fab34d0fed14b22a964bf724749d3c",
+        "sha256_in_prefix": "04b0ef30edce0089833a5e9e1d1e60bf37fab34d0fed14b22a964bf724749d3c",
+        "size_in_bytes": 1473
+      },
+      {
+        "_path": "Lib/site-packages/jwt/__pycache__/algorithms.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "1b3f546f7c6e65566db1cb3fb945087638ea35e7e93a9cef5914fecbdeb23558",
+        "sha256_in_prefix": "1b3f546f7c6e65566db1cb3fb945087638ea35e7e93a9cef5914fecbdeb23558",
+        "size_in_bytes": 16060
+      },
+      {
+        "_path": "Lib/site-packages/jwt/__pycache__/api_jwk.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "21d6b40db13f9eb6034bb68f34098ad0cd0429e257aa85f3d077a535220bcb0f",
+        "sha256_in_prefix": "21d6b40db13f9eb6034bb68f34098ad0cd0429e257aa85f3d077a535220bcb0f",
+        "size_in_bytes": 2865
+      },
+      {
+        "_path": "Lib/site-packages/jwt/__pycache__/api_jws.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "1b0950ee0fe93f1dff5d39acbf0430fa5dc54d07709740b0fc6d7e6234dbec68",
+        "sha256_in_prefix": "1b0950ee0fe93f1dff5d39acbf0430fa5dc54d07709740b0fc6d7e6234dbec68",
+        "size_in_bytes": 6422
+      },
+      {
+        "_path": "Lib/site-packages/jwt/__pycache__/api_jwt.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "73aa72a86b16c71fac3f6284d7eef4b58a8f36f9e21bd0c418c32864417398c0",
+        "sha256_in_prefix": "73aa72a86b16c71fac3f6284d7eef4b58a8f36f9e21bd0c418c32864417398c0",
+        "size_in_bytes": 5884
+      },
+      {
+        "_path": "Lib/site-packages/jwt/__pycache__/exceptions.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "9a21339a9c618034ca80e6a75e777ad0fdcaf0d93612f8b4ce7f5cb042ced6e3",
+        "sha256_in_prefix": "9a21339a9c618034ca80e6a75e777ad0fdcaf0d93612f8b4ce7f5cb042ced6e3",
+        "size_in_bytes": 2568
+      },
+      {
+        "_path": "Lib/site-packages/jwt/__pycache__/help.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "12dd7f6abd844d36fc128e5c9a0865191fad392659630dbab91ea8f345a64424",
+        "sha256_in_prefix": "12dd7f6abd844d36fc128e5c9a0865191fad392659630dbab91ea8f345a64424",
+        "size_in_bytes": 1315
+      },
+      {
+        "_path": "Lib/site-packages/jwt/__pycache__/jwks_client.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "54117bdbbfdddf87f62a2780715a0d6d05a66f5890cc17161aa562e982cd7854",
+        "sha256_in_prefix": "54117bdbbfdddf87f62a2780715a0d6d05a66f5890cc17161aa562e982cd7854",
+        "size_in_bytes": 2297
+      },
+      {
+        "_path": "Lib/site-packages/jwt/__pycache__/utils.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "18cab19bc8c2d779cf7fab2b8d876da1f9f6aa55c35d0e61b48e341e2f92be4a",
+        "sha256_in_prefix": "18cab19bc8c2d779cf7fab2b8d876da1f9f6aa55c35d0e61b48e341e2f92be4a",
+        "size_in_bytes": 2932
+      },
+      {
+        "_path": "Lib/site-packages/jwt/algorithms.py",
+        "path_type": "hardlink",
+        "sha256": "3d4bbd1d57add5da764f5f46afe8d39f15e16e9a8b83c729b5d2b1f303d4ce49",
+        "sha256_in_prefix": "3d4bbd1d57add5da764f5f46afe8d39f15e16e9a8b83c729b5d2b1f303d4ce49",
+        "size_in_bytes": 21471
+      },
+      {
+        "_path": "Lib/site-packages/jwt/api_jwk.py",
+        "path_type": "hardlink",
+        "sha256": "2417665ccb210289e9379fb2cda7f43f777c7c4956f638fe7822c4d538c35fe4",
+        "sha256_in_prefix": "2417665ccb210289e9379fb2cda7f43f777c7c4956f638fe7822c4d538c35fe4",
+        "size_in_bytes": 2942
+      },
+      {
+        "_path": "Lib/site-packages/jwt/api_jws.py",
+        "path_type": "hardlink",
+        "sha256": "5e84e7c176c68f0198d704086b5010733434859dd8788a339724247197cd2693",
+        "sha256_in_prefix": "5e84e7c176c68f0198d704086b5010733434859dd8788a339724247197cd2693",
+        "size_in_bytes": 7838
+      },
+      {
+        "_path": "Lib/site-packages/jwt/api_jwt.py",
+        "path_type": "hardlink",
+        "sha256": "61c20cde9ba8e1db286d47cd635ca1ea07a38bf3104c3a7bf48156cfb7116e86",
+        "sha256_in_prefix": "61c20cde9ba8e1db286d47cd635ca1ea07a38bf3104c3a7bf48156cfb7116e86",
+        "size_in_bytes": 7306
+      },
+      {
+        "_path": "Lib/site-packages/jwt/exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "30e1500a0f7a6625f556a8c1b72b20d5500035c49367f5d548b49a1e21e03fe2",
+        "sha256_in_prefix": "30e1500a0f7a6625f556a8c1b72b20d5500035c49367f5d548b49a1e21e03fe2",
+        "size_in_bytes": 965
+      },
+      {
+        "_path": "Lib/site-packages/jwt/help.py",
+        "path_type": "hardlink",
+        "sha256": "2b018c50c59d4adfc037d3e8261134266c293f34eabe561aba1764b57a5c6dc1",
+        "sha256_in_prefix": "2b018c50c59d4adfc037d3e8261134266c293f34eabe561aba1764b57a5c6dc1",
+        "size_in_bytes": 1608
+      },
+      {
+        "_path": "Lib/site-packages/jwt/jwks_client.py",
+        "path_type": "hardlink",
+        "sha256": "365496be19770f1de7952ffc5aeca29140b2f422c0444821169997add2a337a3",
+        "sha256_in_prefix": "365496be19770f1de7952ffc5aeca29140b2f422c0444821169997add2a337a3",
+        "size_in_bytes": 1927
+      },
+      {
+        "_path": "Lib/site-packages/jwt/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/jwt/utils.py",
+        "path_type": "hardlink",
+        "sha256": "3239a66fc8d9c6e1697fbeda405e27e1f53e468404cf67883e6d51246d1190e5",
+        "sha256_in_prefix": "3239a66fc8d9c6e1697fbeda405e27e1f53e468404cf67883e6d51246d1190e5",
+        "size_in_bytes": 2510
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "2148f6d60272ce155a2339f3a2dd5befe5aae29970745a02d4a46e19027bc1f5",
+  "size": 32679,
+  "subdir": "win-64",
+  "timestamp": 1619651886652,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pyjwt-2.1.0-py38haa95532_0.conda",
+  "version": "2.1.0"
+}
