@@ -1,0 +1,9 @@
+TODO
+
+Seprate notebooks:
+
+data reading and processing 
+
+data viz
+
+modelling
